@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "159947667301",
+    "firebase_url": "https://controltemperaturaregaderaapp.firebaseio.com",
+    "project_id": "controltemperaturaregaderaapp",
+    "storage_bucket": "controltemperaturaregaderaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159947667301:android:1f0b35a85aa8dfcf",
+        "android_client_info": {
+          "package_name": "com.diazmain.controltemperaturaregadera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159947667301-rltg4bq8bc67qqgvb8v4jmh8b3lacnoc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diazmain.controltemperaturaregadera",
+            "certificate_hash": "9a4c094f7bb8a1cae452c7e513ed7d84bf4ecbe6"
+          }
+        },
+        {
+          "client_id": "159947667301-l6c717lu3l37e6eohpincqeuf4044mrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFknIwKVi5soEcMQlXnCnTJnw0bvaqfYA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159947667301-l6c717lu3l37e6eohpincqeuf4044mrl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
